@@ -7,7 +7,7 @@ This project aims to predict the price of diamonds based on various features and
 
 [GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Diamond-Price-Prediction)
 
-[LinkedIN Post Link]([https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-dataanalytics-activity-7072523429257580544-Iaeb?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_presentation-of-project-activity-7072872437226323969-MhQP?utm_source=share&utm_medium=member_desktop))
+[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_presentation-of-project-activity-7072872437226323969-MhQP?utm_source=share&utm_medium=member_desktop)
 
 #
 
